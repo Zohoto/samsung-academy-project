@@ -1,1 +1,1 @@
-# samsung-academy-project
+# Выпускной проект по Samsung Academy (Андроник Андрей, КЭ-203)
