@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+
+    <Button
+        android:id="@+id/elegant_button_left"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:textSize="25dp"
+        android:text="-"/>
+
+    <TextView
+        android:id="@+id/elegant_num"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="1"/>
+
+    <Button
+        android:id="@+id/elegant_button_right"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:textSize="25dp"
+        android:text="+"/>
+
+</LinearLayout>
